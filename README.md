@@ -1,2 +1,2 @@
-# AspNetCore.RateLimit-
+# AspNetCore.RateLimit
 Support rate limit attribute for ASP.NET Core
